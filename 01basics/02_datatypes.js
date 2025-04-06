@@ -46,5 +46,6 @@ let str3 = str1 + str2
 
 // console.log("1" + 20) //120
 // console.log(100 + "2")  //1002
-console.log("10" + 2 + 2) //1022
-console.log(1 + 2 + "20") //320
+//console.log("10" + 2 + 2) //1022
+//console.log(1 + 2 + "20") //320
+ console.log(100 + "2"+"2")  //1004

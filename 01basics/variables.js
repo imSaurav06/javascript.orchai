@@ -1,11 +1,11 @@
 const accountId = 29469;
-let accountEmail = "ksau@gmail.com"
+let accounteEmail = "ksau@gmail.com"
 var accountPassword = "28456"
   accountCity = "Jaipur"
 
 
   accountCity =" patna"
-   let accountEmail = "@gmail"
+   //let accountEmail = "@gmail"
   var accountPassword = "93645"
   //accountId = 11111;
 
