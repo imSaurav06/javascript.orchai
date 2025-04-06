@@ -17,11 +17,11 @@ const JsUser = {
 // console.log(JsUser.email)
 // console.log(JsUser["email"])
  //console.log(JsUser["full name"])
-//  console.log(typeof JsUser[mySym])
-//  console.log( JsUser)
+ console.log(typeof JsUser[mySym])  //string
+ console.log( typeof JsUser)  // object
 
 
 JsUser.email = "hitesh@chatgpt.com"
-//Object.freeze(JsUser)
-//JsUser.email = "hitesh@microsoft.com"
-//  console.log(JsUser);
+Object.freeze(JsUser)   ///frezzeze the pre modifies
+JsUser.email = "hitesh@microsoft.com"
+ console.log(JsUser);

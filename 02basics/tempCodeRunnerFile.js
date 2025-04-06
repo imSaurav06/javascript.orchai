@@ -1,1 +1,1 @@
-console.log(arr)
+JsUser.email = "hitesh@microsoft.com"
