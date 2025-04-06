@@ -17,11 +17,24 @@ const JsUser = {
 // console.log(JsUser.email)
 // console.log(JsUser["email"])
  //console.log(JsUser["full name"])
- console.log(typeof JsUser[mySym])  //string
- console.log( typeof JsUser)  // object
+ //console.log(typeof JsUser[mySym])  //string
+ //console.log( typeof JsUser)  // object
 
 
-JsUser.email = "hitesh@chatgpt.com"
-Object.freeze(JsUser)   ///frezzeze the pre modifies
-JsUser.email = "hitesh@microsoft.com"
- console.log(JsUser);
+// JsUser.email = "hitesh@chatgpt.com"
+// // Object.freeze(JsUser)   ///frezzeze the pre modifies
+// JsUser.email = "hitesh@microsoft.com"
+//  console.log(JsUser)
+
+ JsUser.greeting = function (){
+    console.log(`hello world`)
+ }
+
+ JsUser .greeting()
+
+
+ JsUser.greetingTwo = function(){
+    console.log(`hello world ${this. name}`)
+ }
+
+ JsUser.greetingTwo()
