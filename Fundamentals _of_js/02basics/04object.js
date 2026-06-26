@@ -9,7 +9,7 @@ tinderuserisLoggedIn = false
 
 //console.log(tinderuser)
 
-
+ 
 const student = {
         roll : 9263,
         fullname :{
