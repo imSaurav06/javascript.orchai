@@ -11,7 +11,7 @@ const char_arrr = new Array('k','a','s','u')
 // console.log(string_arrr);
 // console.log(char_arrr);
 
-
+  
 // console.log(typeof arr); //object
 // console.log(typeof int_arrr); //object
 //  console.log(typeof string_arrr); //object
