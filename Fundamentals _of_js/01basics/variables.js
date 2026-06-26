@@ -7,8 +7,8 @@ var accountPassword = "28456"
   accountCity =" patna"
    //let accountEmail = "@gmail"
   var accountPassword = "93645"
-  //accountId = 11111;
-  
+  //accountId = 11111 ;
+
 
 
 console.log(accountId);

@@ -6,7 +6,7 @@
 ////console.log(typeof score)
 //console.log(score)
 
-//let Valuetype = Number(score)
+//let Valuetype = Number(sc ore)
 
 //console.log(typeof Valuetype)
 //console.log(Valuetype)

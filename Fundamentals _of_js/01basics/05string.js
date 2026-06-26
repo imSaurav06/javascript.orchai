@@ -6,7 +6,7 @@ const repoCount = 50
 //``backticks
 //console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
 
-const gameName = new String('hitesh-hc-com') // new version to declaration is string
+const gameName  = new String('hitesh-hc-com') // new version to declaration is string
 
 // console.log(gameName[0]);
 // console.log(gameName.__proto__);
