@@ -8,8 +8,8 @@ console.log(marvel_heros[3][1]);
 
 
 /*merge arr*/ 
-
-
+ 
+  
 // // const allHeros = marvel_heros.concat(dc_heros)  // ["thor", "Ironman", "spiderman","superman", "flash", "batman"]
 // // console.log(allHeros);
 
