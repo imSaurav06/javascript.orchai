@@ -3,7 +3,7 @@
 const mySym = Symbol("key1")
 
 
-const JsUser = {
+const JsUser = { 
     name: "Hitesh",
     "full name": "Hitesh Choudhary",
     [mySym]: "mykey1",
