@@ -10,7 +10,7 @@ let isLoggedIn = false //boolean
 let state =null ; //object
 let xyz = undefined //undifined
 let zyx             //undifined
-
+  
 
 // console.log(typeof name)
 // console.log(typeof age)

@@ -9,7 +9,7 @@ const char_arrr = new Array('k','a','s','u')
 // console.log(arr);
 // console.log(int_arrr);
 // console.log(string_arrr);
-// console.log(char_arrr);
+// console.log(char_arrr);  
    
 
 // console.log(typeof arr); //object
